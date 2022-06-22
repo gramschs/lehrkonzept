@@ -1,0 +1,21 @@
+# Table of contents
+# Learn more at https://jupyterbook.org/customize/toc.html
+
+format: jb-book
+root: intro
+parts:
+- caption: Interaktive Vorlesungsskripte
+  chapters:
+  - file: part01
+    title: Warum?
+  - file: part03
+    title: Wie?
+    sections:
+    - file: part03_01
+    - file: part03_02
+    - file: part03_03
+
+#- caption: Was?
+#- caption: Wie?
+
+ 
