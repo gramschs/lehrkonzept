@@ -7,13 +7,17 @@ parts:
 - caption: Interaktive Vorlesungsskripte
   chapters:
   - file: part01
-    title: Warum?
+    title: Warum und was?
   - file: part03
     title: Wie?
     sections:
     - file: part03_01
     - file: part03_02
     - file: part03_03
+- caption: EduScrum
+  chapters:
+  - file: eduscrum
+    title: EduScrum
 
 #- caption: Was?
 #- caption: Wie?
