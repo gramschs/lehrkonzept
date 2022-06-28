@@ -130,7 +130,3 @@ Steckdosen begrenzt und WLAN-Bandbreite kann problematisch werden.
  trotzdem bin ich für die Teilnehmenden direkt erreichbar.  
 
 
-## Weiteres Material
-
-https://www.fernuni-hagen.de/zli/blog/interaktive-notizbuecher-im-programmierpraktikum-python/
-

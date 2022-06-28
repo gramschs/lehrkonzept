@@ -1,4 +1,4 @@
-# Willkommen zur Vorstellung meines Lehrkonzeptes
+# Willkommen zur Vorstellung meiner Lehrkonzepte
 
 
 Verfasst von [Simone

@@ -16,7 +16,9 @@ parts:
     - file: part03_01
     - file: part03_02
     - file: part03_03
+  - file: part04
+    title: Erfahrungen
 - caption: EduScrum
   chapters:
   - file: eduscrum
-    title: EduScrum
+    title: Hinweise
