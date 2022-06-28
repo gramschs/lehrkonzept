@@ -1,8 +1,7 @@
 # Warum und was?
 
 In diesem Kapitel möchte ich schildern, warum ich mich dazu entschieden habe,
-interaktive Vorlesungsskripte zu erstellen, warum ich dies mit synchronen
-Online-Vorlesungen kombinieren und welche Ziele ich damit verfolge. 
+interaktive Vorlesungsskripte zu erstellen, und welche Ziele ich damit verfolge. 
 
 ## Trennung in 90 min Theorie und 90 min Übung ist lernhinderlich
 
@@ -39,12 +38,12 @@ Sprachlabor
 (Quelle: [Deutsche Fotothek](https://commons.wikimedia.org/wiki/Category:Language_lab?uselang=de#/media/File:Fotothek_df_n-20_0000007_Sprachkabinett.jpg), CC BY-SA 3.0 de)
 ```
 
-Schüler:innen konnten sich dort Aufnahmen von Muttersprachlern
-anhören und Übungen absolvieren, um ihr Hörverständnis der Fremdsprache zu
-trainieren. Heutzutage wurde das Sprachlabor durch Internet und Smartphone
-abgelöst. Es ist kein Problem mehr, sich Bücher, Podcasts oder Videos in allen
-möglichen Fremdsprachen herunterzuladen oder zu streamen. Mit Hilfe von Apps auf
-dem Smartphone kann man seine eigene Aussprache verbessern. 
+Schüler:innen konnten sich dort Aufnahmen von Muttersprachlern anhören und
+Übungen absolvieren, um ihr Hörverständnis der Fremdsprache zu trainieren.
+Mittlerweile wurde das Sprachlabor durch Internet und Smartphone abgelöst. Es
+ist kein Problem mehr, sich Bücher, Podcasts oder Videos in allen möglichen
+Fremdsprachen herunterzuladen oder zu streamen. Mit Hilfe von Apps auf dem
+Smartphone kann man seine eigene Aussprache verbessern. 
 
 Einen ähnlichen Übergang beobachte ich bei der Computernutzung in den
 Ingenieurwissenschaften. In der Mathematik wurde der Taschenrechner bereits
@@ -53,9 +52,10 @@ unterstützt Lernende dabei, Mathematik besser zu verstehen, und stellt somit
 eine ideale Ergänzung im Mathematik-Unterricht dar. Im beruflichen Alltag werden
 wohl eher Apps wie [Photomath](https://photomath.com/de) zum Einsatz kommen, mit
 denen nur noch die Aufgabenstellung abfotografiert werden muss und die
-mathematische Problemstellung automatisiert vom Smartphone gelöst wird. 
+mathematische Problemstellung automatisiert vom Smartphone gelöst und sogar mit
+einzelnen Berechnungsschritten angezeigt wird. 
 
-**Bring your own Device** hat eindeutig Vorteile. Nutzen Studierende ihre eigene
+**Bring your own Device** hat viele Vorteile. Nutzen Studierende ihre eigene
 Hardware, so sind damit vertraut und können sich auf die neuen Fachinhalte
 konzentrieren. Auch sind sie damit nicht mehr abhängig von den Öffnungszeiten
 des Computerraums und können zu jeder Zeit und an jedem Ort üben. Vor allem
@@ -73,11 +73,12 @@ denn herunterladen?
 --Student in der Vorlesung Mathematik 1, WS 21/22
 ```
 
-Manchmal bin ich einfach verblüfft und weiß keine Antwort. Es ist doch purer
-Luxus für unsere Studierenden, dass sie soviele sehr gute Lehrbücher einfach
-kostenlos aus der Bibliothek als pdf oder epub herunterladen können und dann
-mehrere Quellen zurate ziehen können. Aber nein, zwei Bücher sind schon eines
-zuviel und überhaupt -- warum muss man überhaupt noch lesen?
+Manchmal bin ich einfach verblüfft und weiß keine Antwort. Meiner persönlichen
+Meinung nach ist das heutige Angebot der Bibliothek, sehr gute Lehrbücher
+einfach kostenlos als pdf oder epub herunterzuladen, purer Luxus. Mehrere
+Informationsquellen zu nutzen hat den Vorteil, verschiedene Erklärstile
+ausprobieren zu können. Aber nein, zwei Bücher sind schon eines zuviel und
+überhaupt -- warum muss man überhaupt noch lesen?
 
 Mit meinen interaktiven Vorlesungsskripten versuche ich die Selbstorganisation
 der Studierenden zu vereinfachen. Alles ist an einem (virtuellen) Ort mit einer
@@ -87,7 +88,7 @@ Videos und vor allem auch die Übungen.
 
 ## YouTube ist gut, aber nicht immer
 
-Gibt es noch eine Studierende im Maschinenbau, die nicht [SimpleClub -
+Gibt es noch Studierende im Maschinenbau, die nicht [SimpleClub -
 Maschinenbau](https://www.youtube.com/channel/UCdXZYI27KbVdlVbRybit1og) nutzen?
 So gut die Erklärvideos auch animiert werden, so häufig kommen leider auch
 Fehler vor. Und Animationen alleine sind noch keine Didaktik. Dennoch gibt es
@@ -95,7 +96,7 @@ mittlerweile ein sehr reichhaltiges und didaktisch gut konzipiertes Angebot an
 Erklärfilmen. In der Mathematik sind beispielsweise die E-Vorlesungen
 
 * [HM Kompakt](https://www.youtube.com/channel/UCj8eTtGJCVDeM0NVflyxQCA) des
-  Kollegen Prof. Hoever(Ingenieurmathematik, FH Aachen)
+  Kollegen Prof. Hoever (Ingenieurmathematik, FH Aachen)
 * [Mathematische Methoden](https://www.youtube.com/c/MathematischeMethoden) der
   Universität Köln
 
@@ -104,16 +105,29 @@ aus meiner Sicht empfehlenswert, für die Programmierung mit Python empfehle ich
 * [Programmieren starten](https://www.youtube.com/playlist?list=PL_pqkvxZ6ho3u8PJAsUU-rOAQ74D0TqZB).
 
 Wenn sich Studierende auf YouTube befinden, werden ihnen nach Beenden eines
-Videos neue Videos angezeigt und teilweise automatisch abgespielt. Ziel meiner
-Vorlesungsskripte ist daher auch, Studierende in meinem Lernkontext zu halten
-und ihnen damit aus meiner Sicht passendere Lernvideos zu präsentieren. Dazu
-kommt noch, dass das Anschauen von Videos dazu verführen kann,  vermeintlich
-alles verstanden zu haben. Erst durch passende Übungen danach wird klar, ob
-wirklich die Inhalte druchdrungen wurden.
+Videos neue Videos angezeigt und teilweise automatisch abgespielt. Studierenden
+fällt es jedoch schwer, die Qualität der Inhalte einzuschätzen. Dazu kommt noch,
+dass das Anschauen von Videos dazu verführen kann,  vermeintlich alles
+verstanden zu haben. Erst durch passende Übungen danach wird klar, ob wirklich
+die Inhalte druchdrungen wurden. Ziel meiner Vorlesungsskripte ist daher auch,
+Studierende in meinem Lernkontext zu halten und ihnen damit aus meiner Sicht
+passendere Lernvideos mit passgenauen Übungen zu präsentieren. 
 
 ## Online-Vorlesungen sind ergonomisch und fördern Zusammenarbeit
 
-TODO
+Und warum jetzt Online-Vorlesungen? Die interaktiven Vorlesungsskripte haben
+zunächst einmal nichts mit dem Lernort zu tun. Tatsächlich hat sich in meinen
+Informatik-Veranstaltungen jedoch die Online-Vorlesung bewährt. Ab der dritten,
+vierten Woche werden die Programmier-Übungen umfangreicher und es empfiehlt sich
+auch aus ergonomischen Gründen die Benutzung eines Laptops oder eines PCs
+anstatt von Smartphones oder Tablets, die am Anfang noch ausreichen. Nicht alle
+Studierende haben einen Laptop, einige nutzen auch die Kombination PC/Tablet
+oder PC/Papier für Vorlesungen. In vielen Hörsälen ist auch die Anzahl der
+Steckdosen begrenzt und WLAN-Bandbreite kann problematisch werden. 
+
+ Auch wird die Zusammenarbeit wird durch Online-Vorlesungen. Die Kleingruppen
+ können sich in Breakout-Räume zurückziehen und in Ruhe zusammenarbeiten und
+ trotzdem bin ich für die Teilnehmenden direkt erreichbar.  
 
 
 ## Weiteres Material
