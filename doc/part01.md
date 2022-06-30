@@ -5,6 +5,14 @@ interaktive Vorlesungsskripte zu erstellen, und welche Ziele ich damit verfolge.
 
 ## Trennung in 90 min Theorie und 90 min Übung ist lernhinderlich
 
+```{figure} pics/gears_theorie_praxis.png
+---
+name: gears_theorie_praxis
+---
+Theorie und Praxis müssen stark verzahnt werden
+```
+
+
 Informatik bzw. die Einführung in das maschinelle Lernen fällt Studierenden der
 Ingenieurwissenschaften meist schwer. Eine konventionelle Trennung in 90 min
 Vorlesung, in der Studierende passiv vorgeführt bekommen, wie ein
@@ -45,6 +53,13 @@ ist kein Problem mehr, sich Bücher, Podcasts oder Videos in allen möglichen
 Fremdsprachen herunterzuladen oder zu streamen. Mit Hilfe von Apps auf dem
 Smartphone kann man seine eigene Aussprache verbessern. 
 
+```{figure} pics/pupils_smartphone.png
+---
+name:  pupils_smartphone
+---
+Smartphone, Tablet und Laptops erobern Schulen  
+```
+
 Einen ähnlichen Übergang beobachte ich bei der Computernutzung in den
 Ingenieurwissenschaften. In der Mathematik wurde der Taschenrechner bereits
 durch das Smartphone abgelöst. Software wie [GeoGebra](https://www.geogebra.org)
@@ -54,6 +69,13 @@ wohl eher Apps wie [Photomath](https://photomath.com/de) zum Einsatz kommen, mit
 denen nur noch die Aufgabenstellung abfotografiert werden muss und die
 mathematische Problemstellung automatisiert vom Smartphone gelöst und sogar mit
 einzelnen Berechnungsschritten angezeigt wird. 
+
+```{figure} pics/devices_blue.pdf
+---
+name:  byod
+---
+Bring your own device!
+```
 
 **Bring your own Device** hat viele Vorteile. Nutzen Studierende ihre eigene
 Hardware, so sind damit vertraut und können sich auf die neuen Fachinhalte

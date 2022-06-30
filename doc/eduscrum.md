@@ -1,4 +1,4 @@
-# Hinweise
+# Konzept
 
 Für EduScrum verweise ich zum einen auf die Original-Interetseite
 
