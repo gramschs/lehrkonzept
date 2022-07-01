@@ -88,6 +88,12 @@ Vorlesungen oder die Bachelor-Arbeit nutzen.
 
 ## Lernmaterial an einem Ort verbessert die studentische Selbstorganisation
 
+```{figure} pics/dislike_books.png
+---
+name:  dislike_books
+---
+```
+
 ```{epigraph}
 Frau Gramsch, Sie haben zwei Bücher empfohlen. Welches von beiden soll ich
 denn herunterladen? 
@@ -109,6 +115,15 @@ alles meine ich Lehrtexte, Erklärungen, Zeichnungen, Beispiele, Screencasts,
 Videos und vor allem auch die Übungen.
 
 ## YouTube ist gut, aber nicht immer
+
+```{figure} pics/youtube.png
+---
+name:  youtube
+---
+2021 haben bereits 18-19 % der Jugendlichen YouTube zum Lernen genutzt
+
+Quelle: [JIM-Studie 2021](https://www.mpfs.de/fileadmin/files/Studien/JIM/2021/JIM-Studie_2021_barrierefrei.pdf) (Jugend, Informationen, Medien) – Basisuntersuchung zum Medienumgang 12- bis 19-Jähriger
+```
 
 Gibt es noch Studierende im Maschinenbau, die nicht [SimpleClub -
 Maschinenbau](https://www.youtube.com/channel/UCdXZYI27KbVdlVbRybit1og) nutzen?
@@ -136,6 +151,12 @@ Studierende in meinem Lernkontext zu halten und ihnen damit aus meiner Sicht
 passendere Lernvideos mit passgenauen Übungen zu präsentieren. 
 
 ## Online-Vorlesungen sind ergonomisch und fördern Zusammenarbeit
+
+```{figure} pics/pair_programming.svg
+---
+name:  pair_programming
+---
+```
 
 Und warum jetzt Online-Vorlesungen? Die interaktiven Vorlesungsskripte haben
 zunächst einmal nichts mit dem Lernort zu tun. Tatsächlich hat sich in meinen
