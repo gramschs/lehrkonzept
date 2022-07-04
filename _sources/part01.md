@@ -5,6 +5,14 @@ interaktive Vorlesungsskripte zu erstellen, und welche Ziele ich damit verfolge.
 
 ## Trennung in 90 min Theorie und 90 min Übung ist lernhinderlich
 
+```{figure} pics/gears_theorie_praxis.png
+---
+name: gears_theorie_praxis
+---
+Theorie und Praxis müssen stark verzahnt werden
+```
+
+
 Informatik bzw. die Einführung in das maschinelle Lernen fällt Studierenden der
 Ingenieurwissenschaften meist schwer. Eine konventionelle Trennung in 90 min
 Vorlesung, in der Studierende passiv vorgeführt bekommen, wie ein
@@ -45,6 +53,13 @@ ist kein Problem mehr, sich Bücher, Podcasts oder Videos in allen möglichen
 Fremdsprachen herunterzuladen oder zu streamen. Mit Hilfe von Apps auf dem
 Smartphone kann man seine eigene Aussprache verbessern. 
 
+```{figure} pics/pupils_smartphone.png
+---
+name:  pupils_smartphone
+---
+Smartphone, Tablet und Laptops erobern Schulen  
+```
+
 Einen ähnlichen Übergang beobachte ich bei der Computernutzung in den
 Ingenieurwissenschaften. In der Mathematik wurde der Taschenrechner bereits
 durch das Smartphone abgelöst. Software wie [GeoGebra](https://www.geogebra.org)
@@ -54,6 +69,13 @@ wohl eher Apps wie [Photomath](https://photomath.com/de) zum Einsatz kommen, mit
 denen nur noch die Aufgabenstellung abfotografiert werden muss und die
 mathematische Problemstellung automatisiert vom Smartphone gelöst und sogar mit
 einzelnen Berechnungsschritten angezeigt wird. 
+
+```{figure} pics/devices_blue.pdf
+---
+name:  byod
+---
+Bring your own device!
+```
 
 **Bring your own Device** hat viele Vorteile. Nutzen Studierende ihre eigene
 Hardware, so sind damit vertraut und können sich auf die neuen Fachinhalte
@@ -65,6 +87,12 @@ Vorlesungen oder die Bachelor-Arbeit nutzen.
 
 
 ## Lernmaterial an einem Ort verbessert die studentische Selbstorganisation
+
+```{figure} pics/dislike_books.png
+---
+name:  dislike_books
+---
+```
 
 ```{epigraph}
 Frau Gramsch, Sie haben zwei Bücher empfohlen. Welches von beiden soll ich
@@ -87,6 +115,15 @@ alles meine ich Lehrtexte, Erklärungen, Zeichnungen, Beispiele, Screencasts,
 Videos und vor allem auch die Übungen.
 
 ## YouTube ist gut, aber nicht immer
+
+```{figure} pics/youtube.png
+---
+name:  youtube
+---
+2021 haben bereits 18-19 % der Jugendlichen YouTube zum Lernen genutzt
+
+Quelle: [JIM-Studie 2021](https://www.mpfs.de/fileadmin/files/Studien/JIM/2021/JIM-Studie_2021_barrierefrei.pdf) (Jugend, Informationen, Medien) – Basisuntersuchung zum Medienumgang 12- bis 19-Jähriger
+```
 
 Gibt es noch Studierende im Maschinenbau, die nicht [SimpleClub -
 Maschinenbau](https://www.youtube.com/channel/UCdXZYI27KbVdlVbRybit1og) nutzen?
@@ -114,6 +151,12 @@ Studierende in meinem Lernkontext zu halten und ihnen damit aus meiner Sicht
 passendere Lernvideos mit passgenauen Übungen zu präsentieren. 
 
 ## Online-Vorlesungen sind ergonomisch und fördern Zusammenarbeit
+
+```{figure} pics/pair_programming.svg
+---
+name:  pair_programming
+---
+```
 
 Und warum jetzt Online-Vorlesungen? Die interaktiven Vorlesungsskripte haben
 zunächst einmal nichts mit dem Lernort zu tun. Tatsächlich hat sich in meinen
