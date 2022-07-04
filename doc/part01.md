@@ -70,7 +70,7 @@ denen nur noch die Aufgabenstellung abfotografiert werden muss und die
 mathematische Problemstellung automatisiert vom Smartphone gelöst und sogar mit
 einzelnen Berechnungsschritten angezeigt wird. 
 
-```{figure} pics/devices_blue.pdf
+```{figure} pics/devices_blue.svg
 ---
 name:  byod
 ---
