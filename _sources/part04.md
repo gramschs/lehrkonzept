@@ -1,10 +1,10 @@
 # Erfahrungen
 
-* positives Feedback durch Studierende
-* Studierende lernen durch Fehler der anderen Studierenden (in Präsenz können sie nicht den Bildschirm der anderen Teilnehmenden sehen, Lerneffekt entfällt)
-* schüchterne Studierende nutzen den privaten Chat oder rufen mich in Breakout-Räume, in denen sie alleine sind
-* Studierende können in Zoom besser anderen helfen, da sie mitgucken 
-* Code-Schnippsel können leicht per Chat ausgetauscht werden
-* in Präsenz dominiert meist eine Person (die mittig sitzende) die Tastatur
-* Vorlesungsskripte werden vereinzelt vorab heruntergeladen
-* Videos werden geguckt
+* Vereinzelt sprachen mich Studierende nach der Vorlesung oder in den Übungen an und gaben mir positives Feedback. In den Gesprächen stellte sich heraus, dass es vor allem Wiederholer waren.
+* Hardwareausstattung im Home Office scheint kein Problem (mehr) zu sein. Auf Aufforderunge zu Beginn meiner Vorlesung sich zu melden, falls es Hardware/Internet-Probleme gebe, gab es keine Rückmeldung.
+* Die Videos werden von ca. 10 % der Studierenden genutzt.
+* Vereinzelt werden die Vorlesungsskript auch vorab heruntergeladen. In den Übungen bemerkte ich eine Spanne von vier Wochen (1 Woche voraus und 3 Wochen zurück) beim Lernstand der Studierenden.
+* Schüchterne Studierende nutzen den privaten Chat oder rufen mich in Breakout-Räume, in denen sie alleine sind. Ich weiß nicht, ob sich diese Studierenden in einer Präsenzvorlesung an mich gewandt hätten, da sie das kaum unbeobachtet tun könnten.
+* Code-Schnippsel können leicht per Chat ausgetauscht werden und vereinfachen die Hilfestellung. Auch ist es recht einfach per Zoom-Annotation die fehlerhaften Code-Stellen der Studierenden zu markieren anstatt mündlich darauf zu verweisen.
+* Meiner Ansicht nach funktionierte die Zusammenarbeit der Studierenden besser. Jeder sitzt gleichberechtigt vor dem Bildschirm, wenn gemeinsam Übungsaufgaben gelöst werden. In Präsenz dominiert meist nur eine Prson das Geschehen (in der Regel die Person, die mittig vor der Tastatur sitzt).
+* Überrascht war ich von der Wirkung des Peer-Effekts. Studierende lernten durch Fehler der anderen Studierenden. In Präsenz können sie nicht den Bildschirm der anderen Teilnehmenden sehen, so dass dieser Lerneffekt entfällt. Auch gab es manchmal die Situation, dass Studierende anderen Tipps und Hilfestellung gaben, bevoroch helfen konnte. Eine solche kollegiale Hilfestellung kann in Präsenz nur für direkte Nachbarn erfolgen.
